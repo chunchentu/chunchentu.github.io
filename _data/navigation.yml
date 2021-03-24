@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Projects
+  url: /project/
+  excerpt: "Things I have done before"
+  image: obamafb_small.jpg
+
+- title: WBAN
+  url: /WBAN/
+  excerpt: "My major work during my master's degree"
+  image: WBAN_small.jpg
+
+- title: Share
+  url: /share/
+  excerpt: "Some slides and codes to share"
+  image: slides_small.jpg
+
+- title: About Me
+  url: /about/
+  excerpt: "A brief introduction about me"
+  image: archery_small.jpg
